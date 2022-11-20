@@ -1,0 +1,35 @@
+###
+POST http://localhost:8081/person
+
+###
+GET http://localhost:8081/person
+
+###
+POST http://localhost:8082/person
+
+###
+GET http://localhost:8082/person
+
+###
+POST http://localhost:8083/person
+
+###
+GET http://localhost:8083/person
+
+###
+POST http://localhost:8084/person
+
+###
+GET http://localhost:8084/person
+
+###
+POST http://localhost:8085/person
+
+###
+GET http://localhost:8085/person
+
+###
+POST http://localhost:8086/person
+
+###
+GET http://localhost:8086/person
